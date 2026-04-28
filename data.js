@@ -755,7 +755,7 @@ xservicio: {
           name: "Servicio",
           price: 10,
           stock: true,
-          image: "./IMG/simple.png",
+          image: "./IMG/SIMPLE.png",
           description: "⚡ INFORMACIÓN AL INSTANTE - SOLO PERÚ 🇵🇪 ⚡",
           details: [
             "🎯 SOLO NECESITO: 📞Teléfono, 👤Nombre completo o 🪪DNI.",
