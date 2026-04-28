@@ -28,7 +28,7 @@ const catalogData = {
             name: "Premium",
             price: 15,
             stock: true,
-            image: "./IMG/netflix.png",
+            image: "./IMG/Netflix.png",
             description: "1 mes | máxima calidad | Mejor experiencia.",
             details: [
               "Calidad Ultra HD en tus dispositivos favoritos 💻📱",
