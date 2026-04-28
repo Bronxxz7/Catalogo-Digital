@@ -330,22 +330,38 @@ const catalogData = {
   ]
 }
 ,
+
 {
   id: 13,
   name: "Spotify Premium",
   badge: "Música",
   plans: [
     {
-      name: "Personal",
+      name: "Propia",
       price: 12,
       stock: true,
       image: "./IMG/spotify.png",
-      description: "3 meses | Plan Premium.",
+      description: "1 mes | te damos un correo.",
       details: [
         "🎧 Música sin anuncios",
-        "⬇️ Descarga offline",
+        "📩 Activación directa a tu correo",
+        "🔐 Cuenta personal (no compartida)",
         "🎶 Calidad alta",
-        "Cuenta personal"
+        "⬇️ Descarga offline"
+      ]
+    },
+    {
+      name: "Activación",
+      price: 15,
+      stock: true,
+      image: "./IMG/spotify.png",
+      description: "3 meses | Cuenta propia | Activación por correo.",
+      details: [
+        "🎧 Música sin anuncios",
+        "📩 Activación directa a tu correo",
+        "🔐 Cuenta personal (no compartida)",
+        "🎶 Calidad alta",
+        "⬇️ Descarga offline"
       ]
     }
   ]
