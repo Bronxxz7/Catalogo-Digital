@@ -355,7 +355,7 @@ const catalogData = {
       price: 15,
       stock: true,
       image: "./IMG/spotify.png",
-      description: "3 meses | Cuenta propia | Activación por correo.",
+      description: " Cuenta propia | Activación por correo.",
       details: [
         "🎧 Música sin anuncios",
         "📩 Activación directa a tu correo",
