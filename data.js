@@ -50,7 +50,7 @@ const catalogData = {
             name: "Platino (4K)",
             price: 10,
             stock: true,
-            image: "./IMG/HBO.JPG",
+            image: "./IMG/HBO.jpg",
             description: "1 mes | 1 perfil personal | Excelente estabilidad.",
             details: [
               "MAX PLATINO 100% PREMIUM 4K",
@@ -63,7 +63,7 @@ const catalogData = {
             name: "Estándar",
             price: 7,
             stock: true,
-            image: "./IMG/HBO.JPG",
+            image: "./IMG/HBO.jpg",
             description: "1 mes | calidad estándar | Acceso estable.",
             details: [
               "Plan estándar",
