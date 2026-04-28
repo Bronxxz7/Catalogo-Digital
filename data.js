@@ -567,7 +567,7 @@ const catalogData = {
             name: "Personal",
             price: 12,
             stock: true,
-            image: "./img/canva.jpeg",
+            image: "./IMG/canva.jpeg",
             description: "1 mes | acceso premium.",
             details: [
               "Funciones premium",
@@ -586,7 +586,7 @@ const catalogData = {
       name: "Personal",
       price: 12,
       stock: true,
-      image: "./img/duolingo.png",
+      image: "./IMG/duolingo.png",
       description: "1 mes | acceso premium.",
       details: [
         "🚫 Sin anuncios",
@@ -605,7 +605,7 @@ const catalogData = {
       name: "Personal",
       price: 15,
       stock: true,
-      image: "./img/chatgpt.png",
+      image: "./IMG/chatgpt.png",
       description: "1 mes | acceso premium.",
       details: [
         "🤖 IA avanzada",
@@ -617,7 +617,7 @@ const catalogData = {
       name: "APK",
       price: 8,
       stock: true,
-      image: "./img/chatgpt-apk.png",
+      image: "./IMG/chatgpt-apk.png",
       description: "Acceso modificado.",
       details: [
         "📱 Versión APK",
@@ -636,7 +636,7 @@ const catalogData = {
       name: "APK",
       price: 8,
       stock: true,
-      image: "./img/capcut.png",
+      image: "./IMG/capcut.png",
       description: "Versión APK premium.",
       details: [
         "🎬 Edición sin marca de agua",
@@ -648,7 +648,7 @@ const catalogData = {
       name: "personal",
       price: 15,
       stock: true,
-      image: "./img/capcut.png",
+      image: "./IMG/capcut.png",
       description: "Cuenta Personal 35 DÍAS.",
       details: [
         "📱 Cuenta Propia",
@@ -667,7 +667,7 @@ const catalogData = {
       name: "Personal",
       price: 7,
       stock: true,
-      image: "./img/perplexity.png",
+      image: "./IMG/perplexity.png",
       description: "1 mes | acceso pro.",
       details: [
         "🔍 Búsqueda con IA",
@@ -686,7 +686,7 @@ const catalogData = {
       name: "Personal",
       price: 8,
       stock: true,
-      image: "./img/dramabox.jpeg",
+      image: "./IMG/dramabox.jpeg",
       description: "1 mes | acceso premium.",
       details: [
         "🎬 Series cortas",
@@ -705,7 +705,7 @@ const catalogData = {
       name: "Personal",
       price: 8,
       stock: true,
-      image: "./img/reelshort.jpeg",
+      image: "./IMG/reelshort.jpeg",
       description: "1 mes | acceso premium.",
       details: [
         "🎥 Historias cortas",
@@ -724,7 +724,7 @@ const catalogData = {
       name: "3 Meses",
       price: 25,
       stock: true,
-      image: "./img/discord.jpeg",
+      image: "./IMG/discord.jpeg",
       description: "3 meses + 2 server boosts.",
       details: [
         "🔥 Nitro completo",
@@ -755,7 +755,7 @@ xservicio: {
           name: "Servicio",
           price: 10,
           stock: true,
-          image: "./img/simple.png",
+          image: "./IMG/simple.png",
           description: "⚡ INFORMACIÓN AL INSTANTE - SOLO PERÚ 🇵🇪 ⚡",
           details: [
             "🎯 SOLO NECESITO: 📞Teléfono, 👤Nombre completo o 🪪DNI.",
@@ -776,7 +776,7 @@ xservicio: {
           name: "Servicio",
           price: 40,
           stock: true,
-          image: "./img/consulta.png",
+          image: "./IMG/consulta.png",
           description: "AVANZADO - CONSULTA CON DNI",
           details: [
             "📊 Análisis de información",
