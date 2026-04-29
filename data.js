@@ -26,7 +26,7 @@ const catalogData = {
         plans: [
           {
             name: "Premium",
-            price: 15,
+            price: 13,
             stock: true,
             image: "./IMG/Netflix.png",
             description: "1 mes | máxima calidad | Mejor experiencia.",
