@@ -516,8 +516,6 @@
   cursor: pointer;
 }
 
-/* RESPONSIVE */
-
 @media (max-width: 980px) {
   .admin-product-item.improved {
     grid-template-columns: 1fr;
