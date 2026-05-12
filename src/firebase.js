@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { initializeApp } from "firebase/app";
 
 import {
@@ -21,4 +22,29 @@ const firebaseConfig = {
 const app = initializeApp(firebaseConfig);
 
 export const db = getFirestore(app);
+=======
+import { initializeApp } from "firebase/app";
+
+import {
+  getFirestore
+} from "firebase/firestore";
+
+import {
+  getAuth
+} from "firebase/auth";
+
+const firebaseConfig = {
+  apiKey: "AIzaSyAdcNZsInSwgk-z-Ica7R_b89KgXef7mqc",
+  authDomain: "streaming-pe.firebaseapp.com",
+  projectId: "streaming-pe",
+  storageBucket: "streaming-pe.firebasestorage.app",
+  messagingSenderId: "106021969684",
+  appId: "1:106021969684:web:e63ff2b4e2d1adb732ec01",
+  measurementId: "G-9GSX96VMFR"
+};
+
+const app = initializeApp(firebaseConfig);
+
+export const db = getFirestore(app);
+>>>>>>> d0835dcd45448d3197509d5f9c0e54e3e4e60d43
 export const auth = getAuth(app);
